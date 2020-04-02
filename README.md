@@ -3,6 +3,7 @@
 每隔一段时间提醒喝水，结合百度AI的API做一点geek的事！
 
 新增闹钟服务！
+新增抢红包服务！
 
 # 实现原理
  https://mp.weixin.qq.com/s/KtgAZzKDf7EYLGAGWrxhrA
